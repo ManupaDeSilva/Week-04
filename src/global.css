@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria+Serif:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inika:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bahnschrift:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-bahnschrift: Bahnschrift;
+  --font-arima-madurai: "Arima Madurai";
+  --font-aref-ruqaa-ink: "Aref Ruqaa Ink";
+  --font-arimo: Arimo;
+  --font-inria-serif: "Inria Serif";
+  --font-inika: Inika;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-16xl: 35px;
+  --font-size-31xl: 50px;
+  --font-size-21xl: 40px;
+  --font-size-xl: 20px;
+  --font-size-11xl: 30px;
+  --font-size-8xl-3: 27.3px;
+  --font-size-15xl-2: 34.2px;
+  --font-size-mid-9: 17.9px;
+  --font-size-mid-1: 17.1px;
+  --font-size-7xl: 26px;
+  --font-size-42xl-5: 61.5px;
+  --font-size-6xl: 25px;
+  --font-size-26xl: 45px;
+  --font-size-46xl: 65px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-crimson: #da3030;
+  --color-black: #000;
+  --color-gray-100: #141111;
+  --color-gray-200: rgba(255, 255, 255, 0);
+  --color-goldenrod: #dd9c0f;
+  --color-gainsboro: #d9d9d9;
+  --color-orangered: rgba(249, 67, 9, 0.65);
+  --color-khaki: rgba(224, 195, 93, 0.55);
+  --color-dimgray: rgba(106, 97, 97, 0.28);
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-mini: 15px;
+  --padding-7xs: 6px;
+  --padding-6xl: 25px;
+  --padding-xs: 12px;
+  --padding-6xs: 7px;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-22xl: 41px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-5xl: 24px;
+  --br-lgi: 19px;
+}

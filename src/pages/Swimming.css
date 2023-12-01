@@ -1,0 +1,416 @@
+.locker01-back-1-11 {
+  position: absolute;
+  top: 242px;
+  left: 0;
+  width: 1917px;
+  height: 915px;
+  object-fit: cover;
+}
+.department-of-physical2 {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+  font-weight: 600;
+}
+.university-of-peradeniya4 {
+  margin: 0;
+  font-size: 34.15px;
+}
+.department-of-physical-container2 {
+  position: absolute;
+  top: 75px;
+  left: calc(50% - 361.5px);
+  display: inline-block;
+  width: 1117.3px;
+  height: 129.8px;
+  text-shadow: 8px 8px 5px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 0.7px #000;
+}
+.headerback2 {
+  position: absolute;
+  top: 0;
+  left: 367px;
+  background-color: var(--color-khaki);
+  width: 1550px;
+  height: 259px;
+}
+.unilogo-icon2 {
+  position: absolute;
+  top: 9px;
+  left: calc(50% + 149.5px);
+  width: 69.1px;
+  height: 69.8px;
+  object-fit: cover;
+}
+.log-out2 {
+  position: relative;
+}
+.logout2 {
+  position: absolute;
+  top: 197px;
+  left: 1737px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-orangered);
+  width: 133px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-mini) var(--padding-7xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-7xl);
+  font-family: var(--font-arima-madurai);
+}
+.naviback2 {
+  position: absolute;
+  top: -0.7px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1207.4px;
+  height: 41px;
+  display: none;
+}
+.about-us2,
+.equipments2,
+.home2,
+.locker-system2,
+.payments2,
+.registration2,
+.sports2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  font-size: 17.07px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 57.4px;
+  height: 17.1px;
+}
+.about-us2,
+.equipments2,
+.locker-system2,
+.payments2,
+.registration2,
+.sports2 {
+  left: 91.5px;
+  color: var(--color-black);
+  width: 80.6px;
+}
+.equipments2,
+.locker-system2,
+.payments2,
+.registration2,
+.sports2 {
+  left: 192.6px;
+  width: 99px;
+}
+.equipments2,
+.locker-system2,
+.payments2,
+.sports2 {
+  left: 312.1px;
+  width: 83.3px;
+}
+.equipments2,
+.locker-system2,
+.sports2 {
+  left: 415.9px;
+  width: 97.7px;
+}
+.locker-system2,
+.sports2 {
+  left: 534.1px;
+  width: 59.4px;
+}
+.locker-system2 {
+  left: 608px;
+  width: 125.7px;
+  height: 16.4px;
+}
+.facilities2 {
+  left: 747px;
+  width: 78.5px;
+  height: 17.1px;
+}
+.classes2,
+.daily-events2,
+.facilities2,
+.special-programmes2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  font-size: 17.07px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.daily-events2 {
+  left: 837px;
+  width: 102.4px;
+  height: 17.1px;
+}
+.classes2,
+.special-programmes2 {
+  left: 949px;
+  width: 72.4px;
+}
+.special-programmes2 {
+  left: 1024px;
+  font-size: 17.92px;
+  width: 194.2px;
+}
+.navigationbar2 {
+  position: absolute;
+  top: 205px;
+  left: 375px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 1218px;
+  height: 48px;
+  overflow: hidden;
+}
+.header2,
+.uopname-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.uopname-icon2 {
+  width: 368px;
+  height: 259px;
+  object-fit: cover;
+}
+.header2 {
+  width: 1917px;
+  height: 260px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 61.46px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.mapimage-icon2 {
+  position: absolute;
+  top: 37px;
+  left: 1457px;
+  border-radius: var(--br-xl);
+  width: 405px;
+  height: 265px;
+  object-fit: cover;
+}
+.blank-line6,
+.contact-us2 {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.contact-us2 {
+  font-size: 34.15px;
+}
+.blank-line6 {
+  font-family: var(--font-inria-serif);
+}
+.departments-of-physical-educat2 {
+  font-size: var(--font-size-xl);
+}
+.blank-line8,
+.departments-of-physical-educat2,
+.telephone2,
+.university-of-peradeniya5 {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.blank-line8,
+.telephone2 {
+  font-size: var(--font-size-11xl);
+}
+.blank-line8 {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inria-serif);
+}
+.director-081-239-21642 {
+  margin: 0;
+}
+.contact-us-departments-container2 {
+  position: absolute;
+  top: 0;
+  left: 34px;
+  display: inline-block;
+  width: 607.8px;
+  height: 386.5px;
+}
+.callicon2,
+.locationicon2 {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 29.4px;
+  height: 27.3px;
+  object-fit: cover;
+}
+.locationicon2 {
+  top: 75px;
+  width: 27.3px;
+  height: 29.4px;
+}
+.contactus2,
+.footer2 {
+  position: absolute;
+  top: 9px;
+  left: 23px;
+  width: 746px;
+  height: 387px;
+  overflow: hidden;
+}
+.footer2 {
+  top: 1139px;
+  left: 0;
+  background-color: var(--color-goldenrod);
+  width: 1917px;
+  height: 338px;
+  font-size: 27.32px;
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.swimming1 {
+  position: relative;
+  font-weight: 900;
+  -webkit-text-stroke: 4px #000;
+}
+.wrestling1 {
+  position: absolute;
+  top: 322px;
+  left: calc(50% - 193.5px);
+  border-radius: var(--br-lgi);
+  background-color: var(--color-dimgray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-6xl) 0;
+  font-size: var(--font-size-46xl);
+}
+.equipments3,
+.locker-181,
+.swimming-pool {
+  position: absolute;
+  top: 274px;
+  left: 23px;
+  font-weight: 900;
+  -webkit-text-stroke: 2px #000;
+}
+.equipments3,
+.swimming-pool {
+  top: 453px;
+  left: 384px;
+  font-size: var(--font-size-31xl);
+}
+.swimming-pool {
+  left: 1227px;
+  text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.66);
+}
+.available-number-of,
+.available-number-of1,
+.available-number-of2,
+.today-available-times {
+  position: absolute;
+  top: 552px;
+  left: 313px;
+  font-size: var(--font-size-16xl);
+  font-weight: 900;
+  -webkit-text-stroke: 1px #000;
+}
+.available-number-of1,
+.available-number-of2,
+.today-available-times {
+  top: 739px;
+  left: 267px;
+}
+.available-number-of2,
+.today-available-times {
+  top: 922px;
+}
+.today-available-times {
+  top: 552px;
+  left: 1243px;
+  text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.64);
+}
+.div {
+  position: relative;
+  font-weight: 900;
+}
+.bacsketballsavailable,
+.bacsketballsavailable1 {
+  left: 462px;
+  background-color: var(--color-white);
+  width: 92px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+  color: var(--color-black);
+}
+.bacsketballsavailable {
+  position: absolute;
+  top: 626px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 79px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bacsketballsavailable1 {
+  top: 820px;
+  height: 78px;
+}
+.bacsketballsavailable1,
+.bacsketballsavailable2,
+.courttimeslots1 {
+  position: absolute;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bacsketballsavailable2 {
+  top: 996px;
+  left: 467px;
+  background-color: var(--color-white);
+  width: 92px;
+  height: 78px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+  color: var(--color-black);
+}
+.courttimeslots1 {
+  top: 648px;
+  left: 1143px;
+  background-color: var(--color-gray-200);
+  width: 559px;
+  height: 380px;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  font-size: var(--font-size-6xl);
+}
+.swimming {
+  position: relative;
+  background: linear-gradient(180deg, #c5bbbb, rgba(197, 187, 187, 0));
+  width: 100%;
+  height: 1477px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  font-family: var(--font-arima-madurai);
+}

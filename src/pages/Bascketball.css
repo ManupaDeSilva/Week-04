@@ -1,0 +1,389 @@
+.department-of-physical9 {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+  font-weight: 600;
+}
+.university-of-peradeniya18 {
+  margin: 0;
+  font-size: 34.15px;
+}
+.department-of-physical-container9 {
+  position: absolute;
+  top: 75px;
+  left: calc(50% - 361.5px);
+  display: inline-block;
+  width: 1117.3px;
+  height: 129.8px;
+  text-shadow: 8px 8px 5px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 0.7px #000;
+}
+.headerback9 {
+  position: absolute;
+  top: 0;
+  left: 367px;
+  background-color: var(--color-khaki);
+  width: 1550px;
+  height: 259px;
+}
+.unilogo-icon9 {
+  position: absolute;
+  top: 9px;
+  left: calc(50% + 149.5px);
+  width: 69.1px;
+  height: 69.8px;
+  object-fit: cover;
+}
+.log-out9 {
+  position: relative;
+}
+.logout9 {
+  position: absolute;
+  top: 197px;
+  left: 1737px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-orangered);
+  width: 133px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-mini) var(--padding-7xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-7xl);
+  font-family: var(--font-arima-madurai);
+}
+.naviback9 {
+  position: absolute;
+  top: -0.7px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1207.4px;
+  height: 41px;
+  display: none;
+}
+.about-us9,
+.equipments16,
+.home9,
+.locker-system9,
+.payments9,
+.registration9,
+.sports9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  font-size: 17.07px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 57.4px;
+  height: 17.1px;
+}
+.about-us9,
+.equipments16,
+.locker-system9,
+.payments9,
+.registration9,
+.sports9 {
+  left: 91.5px;
+  color: var(--color-black);
+  width: 80.6px;
+}
+.equipments16,
+.locker-system9,
+.payments9,
+.registration9,
+.sports9 {
+  left: 192.6px;
+  width: 99px;
+}
+.equipments16,
+.locker-system9,
+.payments9,
+.sports9 {
+  left: 312.1px;
+  width: 83.3px;
+}
+.equipments16,
+.locker-system9,
+.sports9 {
+  left: 415.9px;
+  width: 97.7px;
+}
+.locker-system9,
+.sports9 {
+  left: 534.1px;
+  width: 59.4px;
+}
+.locker-system9 {
+  left: 608px;
+  width: 125.7px;
+  height: 16.4px;
+}
+.facilities9 {
+  left: 747px;
+  width: 78.5px;
+  height: 17.1px;
+}
+.classes9,
+.daily-events9,
+.facilities9,
+.special-programmes9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  font-size: 17.07px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.daily-events9 {
+  left: 837px;
+  width: 102.4px;
+  height: 17.1px;
+}
+.classes9,
+.special-programmes9 {
+  left: 949px;
+  width: 72.4px;
+}
+.special-programmes9 {
+  left: 1024px;
+  font-size: 17.92px;
+  width: 194.2px;
+}
+.navigationbar9 {
+  position: absolute;
+  top: 205px;
+  left: 375px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 1218px;
+  height: 48px;
+  overflow: hidden;
+}
+.header9,
+.uopname-icon9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.uopname-icon9 {
+  width: 368px;
+  height: 259px;
+  object-fit: cover;
+}
+.header9 {
+  width: 1917px;
+  height: 260px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 61.46px;
+  font-family: var(--font-inter);
+}
+.mapimage-icon9 {
+  position: absolute;
+  top: 37px;
+  left: 1457px;
+  border-radius: var(--br-xl);
+  width: 405px;
+  height: 265px;
+  object-fit: cover;
+}
+.blank-line27,
+.contact-us9 {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.contact-us9 {
+  font-size: 34.15px;
+}
+.blank-line27 {
+  font-family: var(--font-inria-serif);
+}
+.departments-of-physical-educat9 {
+  font-size: var(--font-size-xl);
+}
+.blank-line29,
+.departments-of-physical-educat9,
+.telephone9,
+.university-of-peradeniya19 {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.blank-line29,
+.telephone9 {
+  font-size: var(--font-size-11xl);
+}
+.blank-line29 {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inria-serif);
+}
+.director-081-239-21649 {
+  margin: 0;
+}
+.contact-us-departments-container9 {
+  position: absolute;
+  top: 0;
+  left: 34px;
+  display: inline-block;
+  width: 607.8px;
+  height: 386.5px;
+}
+.callicon9,
+.locationicon9 {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 29.4px;
+  height: 27.3px;
+  object-fit: cover;
+}
+.locationicon9 {
+  top: 75px;
+  width: 27.3px;
+  height: 29.4px;
+}
+.contactus9,
+.footer9 {
+  position: absolute;
+  top: 9px;
+  left: 23px;
+  width: 746px;
+  height: 387px;
+  overflow: hidden;
+}
+.footer9 {
+  top: 1139px;
+  left: 0;
+  background-color: var(--color-goldenrod);
+  width: 1917px;
+  height: 338px;
+  font-size: 27.32px;
+  font-family: var(--font-inika);
+}
+.locker01-back-1-18 {
+  position: absolute;
+  top: 259px;
+  left: 0;
+  width: 1918px;
+  height: 880px;
+  object-fit: cover;
+}
+.bascketball1 {
+  position: relative;
+  font-weight: 900;
+  -webkit-text-stroke: 4px #000;
+}
+.bascketball-wrapper,
+.locker-03 {
+  position: absolute;
+  color: var(--color-white);
+}
+.bascketball-wrapper {
+  top: 322px;
+  left: 742px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-dimgray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-6xl) 0;
+  font-size: var(--font-size-46xl);
+}
+.locker-03 {
+  top: 274px;
+  left: 23px;
+  font-weight: 900;
+  -webkit-text-stroke: 2px #000;
+}
+.court3,
+.equipments17 {
+  position: absolute;
+  top: 455px;
+  left: 297px;
+  font-size: var(--font-size-31xl);
+  font-weight: 900;
+}
+.court3 {
+  left: 1468px;
+  color: var(--color-white);
+  text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.66);
+  -webkit-text-stroke: 1px #000;
+}
+.available-number-of13,
+.today-available-times7 {
+  position: absolute;
+  top: 547px;
+  left: 228px;
+  font-size: var(--font-size-16xl);
+  font-weight: 900;
+}
+.today-available-times7 {
+  top: 550px;
+  left: 1382px;
+  color: var(--color-white);
+  text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.64);
+}
+.div13 {
+  position: relative;
+  font-weight: 900;
+}
+.bacsketballsavailable13,
+.courttimeslots13,
+.courttimeslots14 {
+  position: absolute;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bacsketballsavailable13 {
+  top: 620px;
+  left: 362px;
+  background-color: #fffbfb;
+  width: 92px;
+  height: 79px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+}
+.courttimeslots13,
+.courttimeslots14 {
+  top: 630px;
+  left: 1280px;
+  background-color: var(--color-gray-200);
+  width: 559px;
+  height: 380px;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  font-size: var(--font-size-6xl);
+}
+.courttimeslots14 {
+  top: 738px;
+  left: 128px;
+  height: 296px;
+}
+.bascketball {
+  position: relative;
+  background: linear-gradient(180deg, #c5bbbb, rgba(197, 187, 187, 0));
+  width: 100%;
+  height: 1477px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}
